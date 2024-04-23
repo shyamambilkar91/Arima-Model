@@ -8,7 +8,7 @@ The general process for ARIMA models is the following:
 * Construct the ARIMA Model or Seasonal ARIMA based on the data
 * Use the model to make predictions
 
-Install Dependencies
+## Install Dependencies
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

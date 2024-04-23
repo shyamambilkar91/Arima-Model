@@ -9,10 +9,10 @@ The general process for ARIMA models is the following:
 * Use the model to make predictions
 
 ## Install Dependencies
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-%matplotlib inline
-from statsmodels.graphics.tsaplots import plot_acf,plot_pacf
-import statsmodels.api as sm
+1. import numpy as np
+2. import pandas as pd
+3. import matplotlib.pyplot as plt
+4. %matplotlib inline
+5. from statsmodels.graphics.tsaplots import plot_acf,plot_pacf
+6. import statsmodels.api as sm
 
